@@ -58,6 +58,6 @@ This project uses a Convolutional Neural Network (CNN) to classify brain MRI sca
 
 · Explore 3D CNNs for volumetric MRI data.
 
-Implement tumor segmentation with U-Net.
+· Implement tumor segmentation with U-Net.
 
-Deploy as a web or mobile app for real-time usage.
+· Deploy as a web or mobile app for real-time usage.
